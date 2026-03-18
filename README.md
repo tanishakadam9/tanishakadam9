@@ -2,7 +2,7 @@
 
 ![From Main Klickpin CF- Uploaded by user - 5GOqASPIN](https://github.com/user-attachments/assets/9a33faee-7343-45b5-b426-edaa4a3f6aef)
 
-I love to code and design
+
 
 ## Streaks-
 ![tanishakadam9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishakadam9&theme=cobalt&hide_border=false)
