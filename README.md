@@ -7,4 +7,6 @@
 ## Streaks-
 ![tanishakadam9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishakadam9&theme=cobalt&hide_border=false)
 
-
+![](https://komarev.com/ghpvc/?username=tanishakadam9)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=tanishakadam9&style=flat-square)
